@@ -4,6 +4,12 @@ Original source: http://mtm.cba.mit.edu/cups/cups-epilog/src/cups-epilog.c
 
 CUPS driver for the Epilog Laser engraver  
 
+*Works on:*  
+ * Epilog Mini 18 Laser  
+  
+*Does NOT Work*  
+ * Epilog Legend32 Laser  
+  
  Description:  
  Epilog laser engraver  
   
