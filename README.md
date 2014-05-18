@@ -1,5 +1,6 @@
 cups-epilog
 ===========
+Original source: http://mtm.cba.mit.edu/cups/cups-epilog/src/cups-epilog.c
 
 CUPS driver for the Epilog Laser engraver  
 
