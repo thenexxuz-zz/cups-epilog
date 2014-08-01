@@ -81,7 +81,7 @@ CUPS driver for the Epilog Laser engraver
   
   
  Installation:  
- gcc -o epilog `cups-config --cflags` cups-epilog.c `cups-config --libs`  
+ ``gcc -o epilog `cups-config --cflags` cups-epilog.c `cups-config --libs```
  http://www.cups.org/documentation.php/api-overview.html  
 
  Manual testing can be accomplished through execution akin to:  
