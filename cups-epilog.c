@@ -1531,7 +1531,7 @@ main(int argc, char *argv[])
             /* Configuration specifies that PDF will be rotated 90 degrees
              * clockwise. Use the program pdftk to rotate the pdf.
              */
-            sprintf(buf, "/usr/bin/pdftk %s cat endE output %s_rotated.pdf",
+            sprintf(buf, "/usr/bin/pdftk %s cat endeast output %s_rotated.pdf",
                     filename_pdf, file_basename);
             /* If debug is enabled then print the command to be executed. */
             if (debug) {
